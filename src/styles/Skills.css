@@ -1,0 +1,39 @@
+#skillsPage {
+    /* border:red solid; */
+  
+    height:85%;
+}
+
+.skillTitle {
+    font-size: 50px;
+    font-weight:bolder;
+    /* border:red solid; */
+    margin-left:15%;
+    margin-right: 15%;
+    margin-bottom:1%;
+    margin-top:2%;
+    text-shadow: 2px 2px 2px lightgreen;
+    
+}
+.skills{
+    display:flex;
+    justify-content: space-around;
+   margin-right:5px;
+    font-size: 50px;
+    padding-bottom: 4%;
+    font-weight:lighter,
+}
+#frontIcons{
+    /* border:solid purple; */
+    display:flex;
+   font-size:100px;
+   margin-left:-50%;
+   margin-right: -50%;
+   margin-top:40px;
+   justify-content:space-around;
+}
+#backIcons{
+    /* border:solid purple; */
+    font-size:100px;
+    margin-top:40px;
+}
