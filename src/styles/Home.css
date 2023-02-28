@@ -13,17 +13,20 @@
 }
 #smallAbout {
     /* margin-top: 60px; */
-    font-size:20px;
-    margin-left:-50px;
+    font-size:25px;
+    margin-left:-10px;
     margin-right:20px;
     font-weight:300;
+    text-align:left;
 }
 .Home {
     /* background-color: #b8e89b; */
     padding-top:40px;
-    padding-bottom: 100px;
+    padding-bottom: 76px;
     /* border:red solid; */
     margin-left:4%;
+    /* background-image: linear-gradient(180deg,#6cac50, white);
+    padding-left:10%; */
 }
 #about {
     background-color:#6cac50 ;

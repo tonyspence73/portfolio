@@ -16,7 +16,8 @@
     padding:5px;
     color:white;
     border-radius:10%;
-    text-shadow:1px 1px 1px black
+    text-shadow:1px 1px 1px black;
+    margin-top:40px;
 }
 .button {
     padding: 10px 12px;

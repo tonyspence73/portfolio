@@ -1,3 +1,32 @@
 #projectBack {
-    padding:36vh;
+    padding:15.5vh;
+    /* border:red solid; */
+    display:flex;
+    
+}
+#projectTile{
+    background-image: url("../pics/fridgeDaddy.PNG");
+    width:430px;
+    height:200px;
+    background-size:cover;
+    margin-right:40px;
+    border:solid  #26381f 10px;
+}
+#blueHouse{
+    background-image: url("../pics/blueHouse.PNG");
+    width:430px;
+    height:200px;
+    background-size:cover;
+    margin-right: 40px;
+    border:solid  #26381f 10px;
+}
+#thinCrust{
+    background-image: url("../pics/thinCrust.PNG");
+    width:430px;
+    height:200px;
+    background-size:cover;
+    border:solid  #26381f 10px;
+}
+#projectTitle{
+    font-size:40px;
 }

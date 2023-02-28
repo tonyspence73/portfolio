@@ -11,6 +11,8 @@ import Footer from "./components/Footer";
 import fontawesome5IconsList from 'fontawesome-5-icons-list';
 // import fontawesome from "font-awesome"
 import DownloadButton from './components/DownloadButton';
+// import "../public/projects"
+// import "../public/photos/fridgeDaddy.PNG"
 function App() {
   return (
     <div className="App">

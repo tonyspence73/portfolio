@@ -3,6 +3,14 @@
   
     height:85%;
 }
+#grnBack {
+    /* border:#ff0000 solid; */
+    margin-left:15%;
+    margin-right:15%;
+    padding-bottom:2.2%;
+    background-color: #a1f17e;
+    padding-top:1%;
+}
 
 .skillTitle {
     font-size: 50px;
